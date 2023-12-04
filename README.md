@@ -12,11 +12,9 @@ Follow these steps to get the ToDo-React-Native app up and running on your devic
     npm install -g expo-cli
     ```
 3.install SafeArea native:
-    ```
+    ```bash
     npm install react-native-safe-area-context
     ```
-### Installation
-
 1. Clone the repository to your local machine:
     ```
     git clone https://github.com/your-username/ToDo-React-Native.git
