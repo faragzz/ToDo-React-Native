@@ -1,12 +1,36 @@
-
 # ToDo-React-Native
-## How to run
-run this command in the termainl 
-`expo-cli start --tunnel`
-<pre>
 
-1. install Expo app
+## How to Run
 
-open Expo Go app in android and scan the QR code
-or if you are a iphone user open camera and scan the QR code and it will redirect you to expo app and build it
-</pre>
+Follow these steps to get the ToDo-React-Native app up and running on your device.
+
+### Prerequisites
+
+1. Make sure you have Node.js installed on your machine.
+2. Install Expo CLI globally by running:
+    ```
+    npm install -g expo-cli
+    ```
+
+### Installation
+
+1. Clone the repository to your local machine:
+    ```
+    git clone https://github.com/your-username/ToDo-React-Native.git
+    ```
+
+2. Navigate to the project directory:
+    ```
+    cd ToDo-React-Native
+    ```
+
+3. Install dependencies:
+    ```
+    npm install
+    ```
+
+### Running the App
+
+Run the following command in the terminal:
+```bash
+expo-cli start --tunnel
